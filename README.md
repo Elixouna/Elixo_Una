@@ -30,6 +30,7 @@
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+[Etapa_1_-_Sentir_-_Fichas_de_Entrega_AIC_1.pdf](https://github.com/RanierJunior/Projeto-de-Engajamento-Social/files/8673829/Etapa_1_-_Sentir_-_Fichas_de_Entrega_AIC_1.pdf)
 
 # Autores
 

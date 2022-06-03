@@ -6,7 +6,8 @@
 
 
 <h4 align="center"> 
-  Em desenvolvimento
+  • Projeto focado no descarte correto e seguro de lixo eletrônico 📱
+  • Acreditamos na transformação socioambiental 🌳 🌎
 </h4>
 
 # Índice/Sumário

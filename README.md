@@ -1,9 +1,8 @@
 # E-LIXO.una
 
-![Capa do Projeto] (https://user-images.githubusercontent.com/104280317/173813955-28bb9b70-b7a7-432e-b450-d54b5e69fac6.jpg)
+![Capa do Projeto](https://user-images.githubusercontent.com/104280317/173813955-28bb9b70-b7a7-432e-b450-d54b5e69fac6.jpg)
 
 # Sobre o Projeto
-
 
 <h4 align="center"> 
   • Projeto focado no descarte correto e seguro de lixo eletrônico 📱
@@ -22,11 +21,14 @@
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais 
+# Página no Instagram
 
 
 # Tecnologias Usadas
-
+- [Apresentações Googe](https://docs.google.com/presentation/)
+- [Documentos Google]
+- [Adobe Photoshop]
+- [Zoom] 
 
 # Contribuição
 

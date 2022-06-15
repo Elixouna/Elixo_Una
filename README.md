@@ -1,6 +1,6 @@
 # E-LIXO.una
 
-![Capa do Projeto] [capagit-1](https://user-images.githubusercontent.com/104280317/173813955-28bb9b70-b7a7-432e-b450-d54b5e69fac6.jpg)
+![Capa do Projeto] (https://user-images.githubusercontent.com/104280317/173813955-28bb9b70-b7a7-432e-b450-d54b5e69fac6.jpg)
 
 # Sobre o Projeto
 

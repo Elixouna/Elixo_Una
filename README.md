@@ -41,9 +41,11 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 [<img src="https://avatars.githubusercontent.com/u/72822316?s=400&u=2fbf384f331d943bf1a030260341db2620e6e8b1&v=4=" width=115 > <br> <sub> Fabrício Vaz </sub>](https://github.com/VazFabricio) |
 | :---: |  
 
-[<img src="_LINKIMGPROFILE_=" width=115 > <br> <sub> _NOME_ </sub>](_LINKPERFIL_) |
+[<img src="https://avatars.githubusercontent.com/u/104112540?v=4=" width=115 > <br> <sub> Victória Moura </sub>](https://github.com/VictoriaMLacerda) |
 | :---: |  
 
+[<img src="https://avatars.githubusercontent.com/u/101846076?v=4=" width=115 > <br> <sub> Ranier Danilo </sub>](https://github.com/ranier-o-junin) |
+| :---: |  
 
 
 # Licença :paperclip:

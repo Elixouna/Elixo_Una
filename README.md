@@ -47,6 +47,20 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 [<img src="https://avatars.githubusercontent.com/u/101846076?v=4=" width=115 > <br> <sub> Ranier Danilo </sub>](https://github.com/ranier-o-junin) |
 | :---: |  
 
+[<img src="https://avatars.githubusercontent.com/u/95001079?v=4=" width=115 > <br> <sub> Kelly Cardoso </sub>](https://github.com/kellycardosob) |
+| :---: |  
+
+[<img src="https://avatars.githubusercontent.com/u/107561388?v=4=" width=115 > <br> <sub> Alexandre Trindade </sub>](https://github.com/Alexandretr01) |
+| :---: |  
+
+[<img src="https://avatars.githubusercontent.com/u/20838390?v=4=" width=115 > <br> <sub> Felipe Othon </sub>](https://github.com/FelipeOthon) |
+| :---: |  
+
+[<img src="https://avatars.githubusercontent.com/u/104801029?v=4=" width=115 > <br> <sub> Pedro Canuto </sub>](https://github.com/Pedr021) |
+| :---: |  
+
+[<img src="https://avatars.githubusercontent.com/u/102063720?v=4=" width=115 > <br> <sub> Lucas Vitor </sub>](https://github.com/LucasVitor03) |
+| :---: |  
 
 # Licença :paperclip:
 

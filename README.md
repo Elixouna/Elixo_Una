@@ -35,7 +35,7 @@
 
 # Contribuição :page_with_curl:
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull !
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações
 
 # Autores :shipit:
 [<img src="https://avatars.githubusercontent.com/u/72822316?s=400&u=2fbf384f331d943bf1a030260341db2620e6e8b1&v=4=" width=115 > <br> <sub> Fabrício Vaz </sub>](https://github.com/VazFabricio) |

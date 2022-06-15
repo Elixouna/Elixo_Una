@@ -13,7 +13,7 @@
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
+* [Instagram](#página-no-instagram)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)

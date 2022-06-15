@@ -68,7 +68,12 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos :love_letter:
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+A participação de todos os componentes do grupo foi essencial, nosso trabalho se estruturou com a participação de todos, onde cada pessoa contribuiu de forma a resultar em um projeto que atendeu nossas espectativas iniciais. 
 
 # Fichas de Entrega 
-- 
+-[Projeto de Etapa 1 - Sentir - Fichas de Entrega AIC.pdf](https://github.com/Elixouna/Elixo_Una/files/8913492/Projeto.de.Etapa.1.-.Sentir.-.Fichas.de.Entrega.AIC.pdf)
+
+-[Etapa 2 - Criar - Fichas de Entrega AIC.2.pdf](https://github.com/Elixouna/Elixo_Una/files/8913493/Etapa.2.-.Criar.-.Fichas.de.Entrega.AIC.2.pdf)
+
+-[Etapa 3 - Desenvolver - Fichas de Entrega AIC.pdf](https://github.com/Elixouna/Elixo_Una/files/8913494/Etapa.3.-.Desenvolver.-.Fichas.de.Entrega.AIC.pdf)
+
